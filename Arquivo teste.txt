@@ -1,0 +1,3 @@
+Novo arquivo de texto para testes de Git
+ahhhhhh
+testes
